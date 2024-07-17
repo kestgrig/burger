@@ -87,6 +87,7 @@ body {
 
 header > nav > div > a {
     font-size: 20px;
+    font-weight: 600;
     text-decoration: none;
     color: black;
 }
