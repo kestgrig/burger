@@ -19,9 +19,8 @@ Design: [Burger](https://dribbble.com/shots/12510725-Burger/attachments/4118613?
 ## 🎯 Project features/goals
 
 -   Github pages
--   icons (FontAwesome, ReactIcons)
+-   icons (FontAwesome)
 -   CSS
--   SVG images
 
 ## 🧰 Getting Started
 
