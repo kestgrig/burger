@@ -21,6 +21,8 @@ Design: [Burger](https://dribbble.com/shots/12510725-Burger/attachments/4118613?
 -   Github pages
 -   icons (FontAwesome)
 -   CSS
+-   CSS grid
+-   CSS flex
 
 ## 🧰 Getting Started
 
