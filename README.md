@@ -12,19 +12,15 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/kestgrig/burger
+Site published at: https://github.com/kestgrig/burger-websiteDesignProject
 
 Design: [Burger](https://dribbble.com/shots/12510725-Burger/attachments/4118613?mode=media)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   icons (FontAwesome, ReactIcons)
--   CSS files
--   CSS flex
--   CSS grid
--   SVG images
--   **NO** responsive design
+-   icons (FontAwesome)
+-   CSS
 
 ## 🧰 Getting Started
 
@@ -48,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    https://github.com/kestgrig/burger.git
+    https://github.com/kestgrig/burger-websiteDesignProject.git
     ```
 2. Install NPM packages
     ```sh
