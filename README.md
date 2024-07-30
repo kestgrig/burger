@@ -14,7 +14,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/kestgrig/burger-websiteDesignProject
 
-Design: [Burger]https://dribbble.com/shots/12510725-Burger/attachments/4118613?mode=media
+Design: [Burger](https://dribbble.com/shots/12510725-Burger/attachments/4118613?mode=media)
 
 ## 🎯 Project features/goals
 
