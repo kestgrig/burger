@@ -12,7 +12,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/kestgrig/burger
+Site published at: burger-websiteDesignProject
 
 Design: [Burger](https://dribbble.com/shots/12510725-Burger/attachments/4118613?mode=media)
 
